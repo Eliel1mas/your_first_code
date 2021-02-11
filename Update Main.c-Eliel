@@ -1,0 +1,5 @@
+/ * Update main.c- Holberton School- Eliel Mauricio Escobar Victoria Holberton Postularse, saludos * /
+int main () {
+for (int i = 1; i <= 32; i ++) {
+printf ("Hola Escuela \ n”);
+}
